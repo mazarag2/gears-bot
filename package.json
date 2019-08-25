@@ -1,0 +1,27 @@
+{
+  "name": "gears-bot",
+  "version": "1.0.0",
+  "description": "gears discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazarag2/gears-bot.git"
+  },
+  "keywords": [
+    "gears",
+    "of",
+    "war",
+    "discord",
+    "bot",
+    "node"
+  ],
+  "author": "Michael Zaragoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazarag2/gears-bot/issues"
+  },
+  "homepage": "https://github.com/mazarag2/gears-bot#readme"
+}
